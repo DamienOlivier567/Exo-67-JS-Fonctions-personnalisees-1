@@ -16,4 +16,4 @@ let para4 = para();
 document.getElementById('p4').innerHTML = "Bonjour tout le monde";
 
 let para5 = para();
-document.getElementById('p5').innerHTML = "Bonjour";
+document.getElementById('p5').innerHTML = "Bonjour le monde";
